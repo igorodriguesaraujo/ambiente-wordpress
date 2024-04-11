@@ -47,4 +47,4 @@
 # uncomment the next line
 #/wp-content/themes
 
-.env
+/.env
